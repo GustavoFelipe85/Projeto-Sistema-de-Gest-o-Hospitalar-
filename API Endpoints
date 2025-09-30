@@ -1,0 +1,11 @@
+API Endpoints
+Pacientes
+GET /api/pacientes - Listar pacientes
+
+POST /api/pacientes - Criar paciente
+
+GET /api/pacientes/{id} - Buscar paciente
+
+PUT /api/pacientes/{id} - Atualizar paciente
+
+DELETE /api/pacientes/{id} - Excluir paciente
