@@ -33,3 +33,5 @@ Sistema completo para gestão de hospitais e clínicas, desenvolvido com tecnolo
 ```bash
 cd backend-java
 mvn spring-boot:run
+cd backend-java
+mvn spring-boot:run
