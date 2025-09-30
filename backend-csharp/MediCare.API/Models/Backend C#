@@ -1,0 +1,2 @@
+cd backend-csharp/MediCare.API
+dotnet run
