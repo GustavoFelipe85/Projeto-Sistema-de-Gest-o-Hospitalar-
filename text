@@ -1,0 +1,35 @@
+MediCare-System/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── frontend/
+│   ├── index.html
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── app.js
+│   └── assets/
+│       └── images/
+├── backend-java/
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/
+│   │       │   └── com/medicare/
+│   │       │       ├── controller/
+│   │       │       ├── model/
+│   │       │       ├── service/
+│   │       │       └── repository/
+│   │       └── resources/
+│   ├── pom.xml
+│   └── README.md
+├── backend-csharp/
+│   ├── MediCare.API/
+│   │   ├── Controllers/
+│   │   ├── Models/
+│   │   ├── Services/
+│   │   └── Data/
+│   ├── MediCare.API.csproj
+│   └── README.md
+└── docs/
+    ├── API.md
+    └── SETUP.md
