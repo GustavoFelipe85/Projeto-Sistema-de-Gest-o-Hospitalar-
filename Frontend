@@ -1,0 +1,3 @@
+cd frontend
+# Abra index.html no navegador ou use um servidor local
+python -m http.server 8000
