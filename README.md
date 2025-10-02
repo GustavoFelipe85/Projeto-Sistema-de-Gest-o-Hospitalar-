@@ -33,3 +33,17 @@ Sistema completo para gestão de hospitais e clínicas, desenvolvido com tecnolo
 ```bash
 cd backend-java
 mvn spring-boot:run
+```
+
+### Backend C#
+```bash
+cd backend-csharp/MediCare.API
+dotnet run
+```
+
+### Frontend
+```bash
+cd frontend
+# Abra index.html no navegador ou use:
+python -m http.server 8000
+```
