@@ -10,15 +10,15 @@ Sistema completo para gestão de hospitais e clínicas, desenvolvido com tecnolo
 - ✅ Controle de Médicos e Especialidades
 - ✅ Relatórios e Estatísticas
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias Utilizadas
 
 ### Frontend
 - HTML5, CSS3, JavaScript
 - Design Responsivo
 - Interface Moderna
 
-### Backend (Duas Opções)
-- **Java**: Spring Boot, JPA, MySQL
+### Backend (Duas Implementações)
+- **Java**: Spring Boot, JPA/Hibernate, MySQL
 - **C#**: .NET 6, Entity Framework, SQL Server
 
 ## 📋 Pré-requisitos
